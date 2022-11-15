@@ -25,7 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
-        return new TestSuite( AppTest.class  NEW CHANGE COMMITED);
+        return new TestSuite( AppTest.class );
     }
 
     /**
